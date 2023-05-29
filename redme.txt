@@ -1,0 +1,32 @@
+User -> Models 
+1. id (pk)
+2. email 
+3. password 
+4. usernanme 
+5. first_name 
+6. last_nanme 
+7. created_at 
+8. updated_at 
+9. bio 
+
+
+API for User Model 
+1. register 
+2. login 
+3. get user by id 
+4. follow/unfollow  an user 
+
+API for post Model 
+1. CRUD Post Operation 
+2. like a post 
+3. comment a post 
+
+POST Table 
+1. id 
+2. title 
+3. describtions 
+4. created_at 
+5. updated_at 
+6. user 
+
+
